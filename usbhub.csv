@@ -1,0 +1,22 @@
+Reference,Value,Footprint,Qty per board,total,price per unit,total,vendor,Part number,link
+"C1,C12,C13,C14,C15",10 nF ,Capacitor_SMD:C_0402_1005Metric,5,25,0.02,0.5,Digikey,GRM155R71C103KA01D,https://www.digikey.com/en/products/detail/murata-electronics/GRM155R71C103KA01D/587215
+"C2,C4,C6,C8",10 uF,Capacitor_SMD:C_0402_1005Metric,4,20,0.06,1.2,Digikey,GRM155R61A106ME11D,https://www.digikey.com/en/products/detail/murata-electronics/GRM155R61A106ME11D/12091056
+"C3,C5,C7,C9,C10,C11,C16,C18,C20,C22",0.1 uF,Capacitor_SMD:C_0402_1005Metric,10,50,0.01,0.5,Digikey,CL05B104KO5NNNC,https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL05B104KO5NNNC/3886659
+"C17,C19,C21,C23",1 uF,Capacitor_SMD:C_0603_1608Metric,4,20,0.03,0.6,Digikey,CL10A105KO8NNNC,https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10A105KO8NNNC/3886692
+D1,SMAJ5.0A,Diode_SMD:D_SMA,1,5,0.52,2.6,Digikey,SMAJ5.0A,https://www.digikey.com/en/products/detail/bourns-inc/smaj5-0a/2254236
+"D2,D3,D4,D5",GREEN,LED_SMD:LED_0603_1608Metric,4,20,0.1,2,Digikey,ltst-c190kgkt,https://www.digikey.com/en/products/detail/lite-on-inc/ltst-c190kgkt/386815
+D6,RED,LED_SMD:LED_0603_1608Metric,1,5,0.1,0.5,Digikey,ltst-c190krkt,https://www.digikey.com/en/products/detail/lite-on-inc/ltst-c190krkt/386817
+F1,Fuse ,Fuse:Fuse_1206_3216Metric,1,5,0.528,2.64,Digikey,1206L050YR,https://www.digikey.com/en/products/detail/littelfuse-inc/1206l050yr/455698
+IC1,FE1.1S,footprints:SOP64P600X175-28N,1,5,,0,,,
+J1,USB_B,footprints:CUI_UJ2-BH-W1-TH,1,5,0.58,2.9,Digikey,UJ2-BH-W1-TH,https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/UJ2-BH-W1-TH/6188082
+"J2,J3,J4,J5",USB-A,Connector_USB:USB_A_Kycon_KUSBX-AS1N-B_Horizontal,4,20,0.63,12.6,Digikey,KUSBX-AS1N-B,https://www.digikey.com/en/products/detail/kycon-inc/kusbx-as1n-b/9990135
+"R1,R10,R11,R12,R13",1 MOhm,Resistor_SMD:R_0402_1005Metric,5,25,0.015,0.375,Digikey,RC0402FR-071ML,https://www.digikey.com/en/products/detail/yageo/RC0402FR-071ML/726515
+R2,2.7 kOhms 1%,Resistor_SMD:R_0402_1005Metric,1,5,0.027,0.135,Digikey,CRGCQ0402F2K7,https://www.digikey.com/en/products/detail/te-connectivity-passive-product/CRGCQ0402F2K7/8576234
+"R3,R4,R7,R8",10 kOhms,Resistor_SMD:R_0402_1005Metric,4,20,0.021,0.42,Digikey,RK73H1ETTP1002F,https://www.digikey.com/en/products/detail/koa-speer-electronics-inc/RK73H1ETTP1002F/9844154
+"R5,R6",150 Ohms,Resistor_SMD:R_0402_1005Metric,2,10,0.031,0.31,Digikey,ERJ-2RKF1500X,https://www.digikey.com/en/products/detail/panasonic-industry/ERJ-2RKF1500X/192148
+R9,220 Ohms,Resistor_SMD:R_0402_1005Metric,1,5,0.02,0.1,Digikey,RC0402FR-07220RL,https://www.digikey.com/en/products/detail/yageo/RC0402FR-07220RL/726565
+"U1,U3,U4,U5,U6",USBLC6-2SC6,Package_TO_SOT_SMD:SOT-23-6,5,25,0.33,8.25,Digikey,USBLC6-2SC6,https://www.digikey.com/en/products/detail/stmicroelectronics/usblc6-2sc6/1040559
+U2,24LC02,Package_SO:SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm,1,5,0.34,1.7,Digikey,24LC02,https://www.digikey.com/en/products/detail/microchip-technology/24lc02bt-i-sn/318667
+Y1,ABM3B-12.000MHZ-B2-T,Crystal:Crystal_SMD_Abracon_ABM3B-4Pin_5.0x3.2mm,1,5,0.71,3.55,Digikey,ABM3B-12.000MHZ-B2-T,https://www.digikey.com/en/products/detail/abracon-llc/abm3b-12-000mhz-b2-t/675311
+,,,,,,,,,
+,,,,,,40.88,,,
