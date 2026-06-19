@@ -11204,7 +11204,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "33c4d434-f2b1-425c-b9af-8dbf0f38106c")
+			(uuid "33c4d434-f2b1-425c-b9af-8dbf0f38106d")
 		)
 		(instances
 			(project "usbhub"
@@ -14269,7 +14269,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "33c4d434-f2b1-425c-b9af-8dbf0f38106c")
+			(uuid "33c4d434-f2b1-425c-b9af-8dbf0f38106e")
 		)
 		(instances
 			(project "usbhub"
@@ -14775,7 +14775,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "33c4d434-f2b1-425c-b9af-8dbf0f38106c")
+			(uuid "33c4d434-f2b1-425c-b9af-8dbf0f38106f")
 		)
 		(instances
 			(project "usbhub"
@@ -15206,7 +15206,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "33c4d434-f2b1-425c-b9af-8dbf0f38106c")
+			(uuid "33c4d434-f2b1-425c-b9af-8dbf0f381070")
 		)
 		(instances
 			(project "usbhub"
