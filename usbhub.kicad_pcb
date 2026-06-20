@@ -1642,7 +1642,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "14685a3c-b962-42fa-9ab6-2abfff5690d5")
+			(uuid "0ca35126-cfbe-48f9-99c7-7bee3fccb1cf")
 			(effects
 				(font
 					(size 1 1)
@@ -1655,7 +1655,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0ca35126-cfbe-48f9-99c7-7bee3fccb1cf")
+			(uuid "14685a3c-b962-42fa-9ab6-2abfff5690d5")
 			(effects
 				(font
 					(size 1 1)
@@ -1718,14 +1718,6 @@
 		(path "/16157e48-d9bc-45d8-b0dd-7145fac73d27")
 		(sheetname "/")
 		(sheetfile "usbhub.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "16" "15" "20" "21" "13" "12" "28" "2" "3" "1" "10" "11" "8" "9"
-					"6" "7" "4" "5" "27" "26" "25" "23" "24" "22" "19" "18" "17" "14"
-				)
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -2120,6 +2112,17 @@
 			(uuid "139dead5-9a68-4be3-a268-1049b82447ac")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/Models/FE1.1s.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -90)
+			)
+		)
 	)
 	(footprint "MountingHole:MountingHole_2.2mm_M2"
 		(layer "F.Cu")
