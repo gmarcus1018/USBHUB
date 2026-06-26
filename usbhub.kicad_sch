@@ -4295,7 +4295,7 @@
 		)
 		(uuid "35bacd17-ea1c-4f06-90d7-98cb86696806")
 	)
-	(text "0.1 uF caps X7R"
+	(text "0.1 uF caps X5R"
 		(exclude_from_sim no)
 		(at 252.476 63.754 0)
 		(effects
@@ -4305,7 +4305,7 @@
 		)
 		(uuid "559acca0-2413-4f3b-bb6a-4fc1983a7873")
 	)
-	(text "10 uF caps X7R\n"
+	(text "10 uF caps X5R\n"
 		(exclude_from_sim no)
 		(at 59.436 83.312 0)
 		(effects
@@ -10305,7 +10305,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10 nF 2kV"
+		(property "Value" "10 nF"
 			(at 235.204 148.59 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10397,7 +10397,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10 nF 2kV"
+		(property "Value" "10 nF"
 			(at 241.808 116.84 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11204,7 +11204,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "33c4d434-f2b1-425c-b9af-8dbf0f38106c")
+			(uuid "33c4d434-f2b1-425c-b9af-8dbf0f38106d")
 		)
 		(instances
 			(project "usbhub"
@@ -13501,8 +13501,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10 nF 2kV"
-			(at 52.324 180.594 0)
+		(property "Value" "10 nF"
+			(at 47.752 181.356 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14269,7 +14269,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "33c4d434-f2b1-425c-b9af-8dbf0f38106c")
+			(uuid "33c4d434-f2b1-425c-b9af-8dbf0f38106e")
 		)
 		(instances
 			(project "usbhub"
@@ -14302,7 +14302,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10 nF 2kV"
+		(property "Value" "10 nF"
 			(at 241.554 88.9 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14775,7 +14775,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "33c4d434-f2b1-425c-b9af-8dbf0f38106c")
+			(uuid "33c4d434-f2b1-425c-b9af-8dbf0f38106f")
 		)
 		(instances
 			(project "usbhub"
@@ -15206,7 +15206,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "33c4d434-f2b1-425c-b9af-8dbf0f38106c")
+			(uuid "33c4d434-f2b1-425c-b9af-8dbf0f381070")
 		)
 		(instances
 			(project "usbhub"
@@ -15239,8 +15239,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10 nF 2kV"
-			(at 245.618 57.658 90)
+		(property "Value" "10 nF"
+			(at 240.792 57.658 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
